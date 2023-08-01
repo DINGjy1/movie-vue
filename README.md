@@ -1,5 +1,6 @@
 # vue-demo
 
+电影管理系统 vue 3 
 ## Project setup
 ```
 npm install
